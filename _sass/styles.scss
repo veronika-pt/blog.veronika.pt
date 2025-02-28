@@ -1,1 +1,34 @@
 @import "jekyll-theme-minimal";
+
+.posts {
+  padding: 0;
+  list-style-type: none;
+}
+
+.posts li a {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5em;
+}
+
+.posts h3,
+.posts time,
+.posts p {
+  display: block;
+  margin: 0;
+  line-height: 1.25em;
+}
+
+.posts h3 {
+  font-size: 1.5rem;
+  font-weight: normal;
+  color: inherit;
+}
+.posts p {
+  font-size: 1em;
+  color: #727272;
+}
+.posts time {
+  font-size: 11px;
+  color: #727272;
+}
