@@ -1,6 +1,12 @@
 title: The Ultimate Guide to Real Estate in Lisbon – Rental Market Trends, Tips & Insights
+timezone: Europe/Lisbon
+
 author: Verónika Troitskaia
+#logo: /assets/img/logo.png
 description: Discover the latest rental market trends in Lisbon with expert insights and practical tips. Learn about pricing, demand, top neighborhoods, and essential advice for tenants and landlords in Portugal’s capital.
+
+url: https://blog.veronika.pt
+permalink: /:title
 
 defaults:
   - scope:
