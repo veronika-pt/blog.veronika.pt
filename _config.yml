@@ -1,4 +1,4 @@
-remote_theme: eliottvincent/bay
+theme: minima
 plugins:
 - jekyll-remote-theme
 title: The Ultimate Guide to Real Estate in Lisbon – Rental Market Trends, Tips & Insights
