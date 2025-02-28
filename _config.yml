@@ -1,7 +1,10 @@
 title: Verónika Troitskaia
 timezone: Europe/Lisbon
 
-author: Verónika Troitskaia
+author:
+  name: Verónika Troitskaia
+  url: https://www.veronika.pt
+
 #logo: /assets/img/logo.png
 description: Discover the latest rental market trends in Lisbon with expert insights and practical tips. Learn about pricing, demand, top neighborhoods, and essential advice for tenants and landlords in Portugal’s capital.
 
