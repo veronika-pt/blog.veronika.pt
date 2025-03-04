@@ -1,4 +1,23 @@
-# What to Look for When Renting an Apartment in Lisbon
+--- 
+title: What to Look for When Renting an Apartment in Lisbon
+
+date: 2023-04-27
+tags: 
+  - renting an apartment in lisbon  
+  - lisbon rental tips  
+  - apartment hunting portugal  
+  - best neighborhoods in lisbon  
+  - living in lisbon  
+  - lisbon housing market  
+  - apartment noise levels lisbon  
+  - double-glazed windows portugal  
+  - sun exposure in apartments  
+  - smart apartment layouts  
+  - storage space in lisbon apartments  
+  - essential appliances for rentals  
+  - plumbing quality in rentals  
+  - choosing a rental agency portugal   
+---
 
 When renting an apartment in New York, people usually focus on proximity to subway lines, walking distance to work, vibrancy of the neighborhood, and safety. In Lisbon, however, people also pay attention to factors like airplane flight paths and how low planes fly, which can impact the living experience, especially in certain areas.
 
