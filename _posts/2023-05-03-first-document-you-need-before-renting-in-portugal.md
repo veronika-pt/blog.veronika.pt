@@ -1,4 +1,16 @@
-# What’s the First Document You Need Before Renting an Apartment in Portugal?
+--- 
+title: What’s the First Document You Need Before Renting an Apartment in Portugal?
+
+date: 2023-05-03
+tags: 
+  - nif in portugal  
+  - renting in lisbon  
+  - portugal relocation guide  
+  - expat life in portugal  
+  - tax identification in portugal  
+  - moving to portugal  
+  - portugal rental tips   
+---
 
 When moving to Portugal, one of the first things you’ll need is the NIF (Número de Identificação Fiscal), which is similar to the Social Security Number (SSN) in the United States. It’s crucial to get it as soon as possible. Here’s why:
 
