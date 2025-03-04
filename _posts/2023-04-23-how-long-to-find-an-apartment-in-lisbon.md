@@ -1,4 +1,20 @@
-# Timeline for Finding an Apartment in Lisbon
+--- 
+title: Timeline for Finding an Apartment in Lisbon
+
+date: 2023-04-23
+tags: 
+  - finding an apartment in lisbon  
+  - lisbon rental timeline  
+  - apartment hunting portugal  
+  - renting process in lisbon  
+  - lisbon housing market  
+  - expat rental tips portugal  
+  - rental contracts portugal  
+  - moving to lisbon  
+  - transferring utilities in portugal  
+  - best time to rent in lisbon  
+  - negotiating rent in portugal  
+---
 
 When searching for an apartment in Lisbon, it’s important to plan for a timeline of **four to six weeks**. If you have a limited budget and want to find a great apartment in a nice area at a reasonable price, the search might take a little longer.
 
