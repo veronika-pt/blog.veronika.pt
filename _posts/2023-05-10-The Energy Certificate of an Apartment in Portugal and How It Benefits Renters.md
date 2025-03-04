@@ -1,4 +1,16 @@
+--- 
 title: The Energy Certificate of an Apartment in Portugal and How It Benefits Renters
+date: 2023-05-10
+tags: 
+  - energy certificate portugal  
+  - energy efficiency ratings  
+  - renting in lisbon  
+  - portugal rental tips  
+  - living in portugal  
+  - lisbon apartments  
+  - apartment heating costs  
+  - sustainable living portugal  
+---
 
 The energy certificate of an apartment is a document that details the apartment’s energy efficiency, pointing out problematic areas and how to improve them. The higher the energy efficiency level, the better the apartment maintains its temperature without exchanging heat with the surrounding environment. Simply put: it keeps warmth in during winter and prevents heat from entering in the summer.
 
