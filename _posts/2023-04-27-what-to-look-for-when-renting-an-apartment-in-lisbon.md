@@ -25,13 +25,19 @@ For instance, in **Campo de Ourique**, the planes are noticeable but still toler
 
 Once I’ve narrowed down the location and price, here’s what I look for next:
 
-✅ **Double-glazed windows** – These are crucial for insulation and keeping the apartment warm in winter, much better than the old cold windows.
-✅ **Sun exposure** – Ideally, a place with exposure to two sides of the building makes ventilation much easier. If a room faces south, it will be quite hot in summer. For northern rooms it's opposite – it will be quite chilly in winter, and almost no direct sun during the year.
-✅ **Smart layout** – I always check if the layout makes sense for the way the space will be used.
-✅ **Storage space** – It's essential to have room for things like suitcases, seasonal bedding, and other storage needs.
-✅ **Appliances** – I prefer induction stoves (they save time on cooking), and it's also important to check the overall condition of the appliances.
-✅ **Quality of plumbing** – You don't want to deal with leaks and old plumbing!
-✅ **Which agency you're working with** – It's important to know which agency is handling the rental for a clearer process.
+  ✅ **Double-glazed windows** – These are crucial for insulation and keeping the apartment warm in winter, much better than the old cold windows.
+
+  ✅ **Sun exposure** – Ideally, a place with exposure to two sides of the building makes ventilation much easier. If a room faces south, it will be quite hot in summer. For northern rooms it's opposite – it will be quite chilly in winter, and almost no direct sun during the year.
+
+  ✅ **Smart layout** – I always check if the layout makes sense for the way the space will be used.
+
+  ✅ **Storage space** – It's essential to have room for things like suitcases, seasonal bedding, and other storage needs.
+
+  ✅ **Appliances** – I prefer induction stoves (they save time on cooking), and it's also important to check the overall condition of the appliances.
+
+  ✅ **Quality of plumbing** – You don't want to deal with leaks and old plumbing!
+
+  ✅ **Which agency you're working with** – It's important to know which agency is handling the rental for a clearer process.
 
 On the flip side, here’s what I don’t worry about as much:
 🫣 Minor imperfections on the walls (stickers, scuffs, stains—these can be easily fixed and aren’t a dealbreaker).
