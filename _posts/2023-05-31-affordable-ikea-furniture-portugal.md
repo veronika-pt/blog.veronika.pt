@@ -40,7 +40,8 @@ Hey there! Today, let’s talk about what you can buy at IKEA when you’ve just
 
 **Desk** – _Linnmon/Krylle_. _Linnmon_ is a basic but good-sized tabletop (120 × 60 cm, or 3 11" × 1 12"), and _Krylle_ legs on wheels make it more flexible for different spaces. Perfect if you need a desk for work and relaxation.
 
-![Tertial](/assets/img/tertial.jpg)
+![Tertial](/assets/img/tertial-1.jpg)
+![Tertial](/assets/img/tertial-2.jpg)
 
 **Desk Lamp** – _Tertial_. You can buy two for extra brightness. Lightbulbs are not included, so grab those separately.
 
