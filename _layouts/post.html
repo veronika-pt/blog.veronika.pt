@@ -2,12 +2,17 @@
 layout: default
 ---
 
-<h1>{{ page.title | smartify }}</h1>
+<article>
+  <h1>{{ page.title | smartify }}</h1>
+  
+  {{content}}
 
-{{content}}
-
-{% if page.tags %}
-<small>tags: <em>{{ page.tags | join: "</em> - <em>" }}</em></small>
-{% endif %}
-
-<p><small>{{ page.date | date: "%-d %B %Y" }}</small></p>
+  <footer>
+    {% if page.tags %}
+    <p class="tags">Tags: <em>{{ page.tags | join: "</em>, <em>" }}</em></p>
+    {% endif %}
+    
+    <p class="date"><time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%-d %B %Y" }}</time></p>
+  </footer>
+  
+</article>

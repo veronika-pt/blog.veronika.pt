@@ -22,8 +22,7 @@ Even after completing one-third of the contract, tenants must give written notic
 
 Rent must be paid during this notice period.
 
-### Example: Ending a 3- and 5-Year Lease
-
+{% capture example %}
 For a 3-year contract (36 months):
 - The tenant can request termination after 12 months.
 - They must then give 120 days' notice before moving out.
@@ -33,6 +32,9 @@ For a 5-year contract (60 months):
 - The tenant can request termination after 20 months (1 year and 8 months).
 - They must then give 120 days' notice before moving out.
 - The earliest possible move-out date is 24 months (2 years) from the lease start.
+{% endcapture %}
+
+{% include example.html content=example title="Ending a 3- and 5-Year Lease" %}
 
 ## Can You Leave Even Sooner?
 

@@ -1,8 +1,113 @@
-@import "jekyll-theme-minimal";
+@import "base";
+
+body {
+  background-color: #fff;
+  color: #727272;
+}
+
+.wrapper {
+  display: grid;
+  width: 100%;
+  max-width: 80em;
+  margin: 0 auto;
+  padding: 1.5em;
+  padding: clamp(1.5em, 5vw, 3em);
+  gap: 3em;
+}
+
+@media screen and (min-width: 60em) {
+  .wrapper {
+    grid-template-columns: 16em 1fr;
+  }
+}
+
+main {
+  padding-bottom: 3em;
+}
+
+header,
+main,
+article {
+  margin-trim: block;
+}
+
+article {
+  container-name: article;
+  contain: inline-size;
+}
+
+article footer {
+  margin-top: 3em;
+  font-size: 0.875em;
+}
+
+article a {
+  text-decoration: underline;
+  text-underline-offset: 0.125em;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+article ul,
+article ol,
+article footer {
+  max-width: 40rem;
+}
+
+h1 {
+  font-size: 2em;
+  font-weight: 500;
+  text-wrap: balance;
+}
+
+figure {
+  margin: 2em 0;
+  display: grid;
+  gap: 0.5em;
+}
+
+figure div {
+  display: grid;
+  gap: 0.5em;
+}
+
+@media screen and (min-width: 30em) {
+  figure div {
+    grid-template-columns: repeat(auto-fit, minmax(20em, 1fr));
+  }
+}
+
+figure img:only-child,
+figure figcaption {
+  width: 100%;
+  max-width: 40rem;
+}
+
+figcaption {
+  font-size: 0.875em;
+  font-style: italic;
+}
+
+
+.site-title {
+  font-size: 2em;
+  font-weight: bold;
+  line-height: 1.125;
+  margin: 1rem 0;
+}
 
 .posts {
   padding: 0;
   list-style-type: none;
+  display: flex;
+  flex-direction: column;
+  gap: 1.5em;
 }
 
 .posts li a {
@@ -11,15 +116,17 @@
   gap: 0.5em;
 }
 
-.posts h3,
+.posts h2,
 .posts time,
 .posts p {
   display: block;
   margin: 0;
+}
+.posts time,
+.posts p {
   line-height: 1.5;
 }
-
-.posts h3 {
+.posts h2 {
   font-size: 1.5rem;
   font-weight: normal;
   color: inherit;
@@ -31,4 +138,17 @@
 .posts time {
   font-size: 11px;
   color: #727272;
+}
+
+
+.example {
+  margin: 2em 0;
+  background: #ECF4F7;
+  border-radius: 0.5em;
+  padding: 1em;
+  margin-trim: block;
+  max-width: 40rem;
+}
+.example header {
+  color: #333;
 }

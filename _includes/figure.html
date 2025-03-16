@@ -1,0 +1,6 @@
+<figure>
+  <div>{{ include.images | markdownify | replace: "<p>", "" | replace: "</p>", "" }}</div>
+  {% if include.caption %}
+  <figcaption>{{ include.caption | smartify }}</figcaption>
+  {% endif %}
+</figure>
