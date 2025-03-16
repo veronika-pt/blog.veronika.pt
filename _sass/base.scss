@@ -1,0 +1,95 @@
+html {
+  box-sizing: border-box;
+  -webkit-text-size-adjust: 100%;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+body {
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+  font-family: system-ui, "Helvetica Neue", Helvetica, sans-serif;
+  line-height: 1.5;
+  margin: 0;
+  padding: 0;
+}
+
+main,
+details {
+  display: block;
+}
+
+summary {
+  display: list-item;
+}
+
+[hidden] {
+  display: none !important;
+}
+
+abbr[title] {
+  cursor: help;
+}
+
+b, strong {
+  font-weight: bolder;
+}
+
+small, sub, sup {
+  font-size: 0.75em;
+}
+
+sub, sup {
+  line-height: 0;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+a {
+  color: royalblue;
+  text-decoration: none;
+}
+
+a:hover, a:focus {
+  color: #183996;
+}
+
+
+
+
+h1, h2, h3, h4, h5, h6 {
+  color:#222;
+  margin: 2em 0 1em;
+}
+
+h1, h2, h3 {
+  line-height: 1.25;
+}
+
+h2 {
+  color: #393939;
+}
+
+h3, h4, h5, h6 {
+  color: #494949;
+}
+
+p, ul, ol, table, pre, dl {
+  margin: 1em 0;
+}
+
+blockquote {
+  color: gray;
+  border-left: 0.125em solid gainsboro;
+  margin: 2em 0;
+  padding: 0 0 0 1em;
+  font-style: italic;
+}
+

@@ -1,0 +1,9 @@
+<section class="example">
+  <header>
+    <strong>Example:</strong>
+    {% if include.title %}
+    <em>{{ include.title | smartify }}</em>
+    {% endif %}
+  </header>
+  {{ include.content | markdownify }}
+</section>
