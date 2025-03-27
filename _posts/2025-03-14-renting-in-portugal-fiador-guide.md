@@ -14,7 +14,7 @@ tags:
 
 A fiador in Portuguese rental agreements is a guarantor—someone with Portuguese residency or citizenship who is listed in the lease contract and takes on the responsibility of paying rent if you are unable to do so.
 
-If you’re lucky enough to find such a wonderful person, they will need to provide a _cartão de cidadão_ (citizen card) or _título de residência_ (residence permit) and their _IRS declaration for the previous year_ (this is the Portuguese equivalent of an income tax return, similar to the Russian 3-NDFL).
+If you’re lucky enough to find such a wonderful person, they will need to provide a _cartão de cidadão_ (citizen card) or _título de residência_ (residence permit) and their _IRS declaration for the previous year_ (IRS — personal tax declaration in Portugal).
 
 If your fiador is married, their spouse must also give consent, meaning both must sign your rental agreement. This also means the spouse will need to provide their _cartão de cidadão and IRS declaration for the previous year_.
 
