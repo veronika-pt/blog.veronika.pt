@@ -1,5 +1,5 @@
 --- 
-title: How to Rent an Apartment: Step-by-Step Guide
+title: How to Rent an Apartment? Step-by-Step Guide
 date: 2025-03-26
 tags: 
   - portugal rental tips  
