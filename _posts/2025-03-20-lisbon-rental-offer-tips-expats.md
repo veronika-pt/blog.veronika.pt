@@ -60,11 +60,11 @@ Make sure every claim is backed by supporting documents. Attach copies of:
 - Your passport and NIF
 - Proofs of income
 
-Need help getting a NIF? Check [our guide here](/first-document-you-need-before-renting-in-portugal.md).
+Need help getting a NIF? Check [our guide here](/first-document-you-need-before-renting-in-portugal).
 
 **9. Guarantors (Fiadores)**
 
-If you have guarantors, provide their income sources and attach supporting documents. More info [on fiadores here](/renting-in-portugal-fiador-guide.md).
+If you have guarantors, provide their income sources and attach supporting documents. More info [on fiadores here](/renting-in-portugal-fiador-guide).
 
 **10. Relevance**
 
@@ -76,4 +76,4 @@ If your offer is rejected, don’t panic. The Lisbon rental market is competitiv
 
 If you need help with crafting your offer, feel free to reach out—I’m happy to assist: [hello@veronika.pt](mailto:hello@veronika.pt). 😉
 
-Also, if you want to know how tenants can terminate a lease early, check out [our guide here](/breaking-rental-lease-portugal.md).
+Also, if you want to know how tenants can terminate a lease early, check out [our guide here](/breaking-rental-lease-portugal).
